@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Invoidy
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and Kotlin
+- 🌱 I’m currently learning Python
 - 📫 How to reach me (soon...)
 - 😄 Pronouns: just say Invoidy or Sergey!
 - 😋 i very like italian pizza
