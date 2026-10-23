@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python
 - 📫 How to reach me (soon...)
-- 😄 Pronouns: just say Invoidy or Sergey!
+- 😄 Pronouns: just say Invoidy or Sergei!
 - 😋 i very like italian pizza
 
 <!---
